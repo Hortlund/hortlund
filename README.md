@@ -1,4 +1,4 @@
-### Hi there :shipit:
+# Hi there, my name is Andreas Hortlund :shipit:
 
 <!--
 **Hortlund/hortlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
