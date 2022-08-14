@@ -1,5 +1,11 @@
 # Hi there, my name is Andreas Hortlund :shipit:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=perl,git,mysql,kubernetes,docker,c,neovim,linux,go" />
+  </a>
+</p>
+
 <!--
 **Hortlund/hortlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
